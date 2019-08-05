@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">IPTV Smarters</string>
+    <string name="Tv_en_direct">TV EN DIRECT</string>
+    <string name="series">Series</string>
+    <string name="films">FILMS</string>
+    <string name="EPG">INSTALLER EPG</string>
+    <string name="ENREG">ENREGISTREMENTS</string>
+    <string name="rattraper">Rattraper</string>
+    <string name="expiration">Expiration :</string>
+    <string name="connecté">Connecté :</string>
+    <string name="acheter">Acheter des annonces gratuitement</string>
+    <string name="contact">Contact</string>
+    <string name="Code">Code d\'Activation :</string>
+    <string name="SaisirCode">Code</string>
+    <string name="nom">Nom :</string>
+    <string name="nom2">Nom</string>
+    <string name="prenom2">Prenom</string>
+    <string name="prenom">Prenom :</string>
+    <string name="tel">Telephone :</string>
+    <string name="tel2">Telephone</string>
+    <string name="Objet">Objet :</string>
+    <string name="objet2">Objet</string>
+    <string name="Reclamation">Reclamation :</string>
+    <string name="Reclamation2">Reclamation</string>
+    <string name="Envoyer">Envoyer</string>
+    <string name="Destinataire">Destinataire</string>
+    <string name="Destinataire2">Destinataire :</string>
+</resources>
