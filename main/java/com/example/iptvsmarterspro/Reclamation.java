@@ -58,7 +58,7 @@ public class Reclamation extends AppCompatActivity {
                 Intent intent = new Intent(Intent.ACTION_SEND);
                 //Intent intent = new Intent(Intent.ACTION_SENDTO);
                intent.putExtra(Intent.EXTRA_EMAIL, recipients);
-               // intent.setData(Uri.parse("mailto:" + "bechirmlika@gmail.com"));
+               // intent.setData(Uri.parse("mailto:" + "example@gmail.com"));
                 intent.putExtra(Intent.EXTRA_SUBJECT, subject);
                 intent.putExtra(Intent.EXTRA_TEXT,message);
                 try {
